@@ -1,0 +1,103 @@
+html { 
+        background: url("../assets/background.jpg") no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+
+#nav{
+        background-color: rgba(0, 0,0,0.4);
+        border-bottom-color: transparent;
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+
+.navbar-default .navbar-nav > li > a {
+        color:yellow;
+        font-size: 10px;
+    }
+.navbar-default .navbar-brand {
+        color:rgb(111, 223, 130);
+        font-size: 1.0em;
+    }
+#start{
+        margin-top: 80px;
+        background-color: transparent;
+    }
+body{
+        background-color:transparent;
+    }
+.jumbotron{
+        margin-top: 130px;
+        padding-bottom: 6px;
+        padding-top: 4px;
+    }
+#name{
+        color: white;
+        font-size: 1.3em;
+    }
+#name1{
+        color: black;
+        font-size: 1.3em;
+    }
+#cont2{
+        background-color: white;
+    }
+#second{
+        background-color: transparent;
+    }
+    .ui.grid>.column:not(.row), .ui.grid>.row>.column{
+        padding-left: 1rem;
+        padding-right: 0rem;
+    }
+    .ui.grid>.column:not(.row){
+        padding-top:0rem;
+        padding-bottom: 1rem;
+    }
+    .ui.header{
+        color:white;
+        font-weight: bolder;
+    }
+    .ui.dividing.header{
+        border-bottom: 1px solid yellow;
+    }
+    #about{
+        color: #155417ad;
+        background-color: whitesmoke;
+    }
+    .ui.segment{
+        background: transparent;
+        border-color: transparent;
+    }
+    .navbar-default{
+        border-color: transparent;
+    }
+    .ui.inverted.segment, .ui.primary.inverted.segment{
+        background-color: rgba(20, 20, 7, 0);
+    }
+    #us{
+        text-underline-position: left;
+        color:#155417ad;
+        border-bottom: 2px solid #155417ad;
+        margin-top: 30px;
+        width: 50%;
+    }
+    form{
+        margin-top: 100px;
+    }
+    #home{
+        width: 100%;
+    }
+    .ui.header+p {
+        margin-top: 60px;
+    }
+    #h4{
+        color: white;
+        font-weight: bolder;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    i.circular.icon{
+        box-shadow: 0 0 0 0.1em rgba(255, 255, 255,.4b) inset;
+    }
