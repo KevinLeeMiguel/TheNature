@@ -101,3 +101,34 @@ body{
     i.circular.icon{
         box-shadow: 0 0 0 0.1em rgba(255, 255, 255,.4b) inset;
     }
+    #empty{
+       width: 100%;
+       height: 200px;
+    }
+    #videoBlock {
+        height: 300px;
+        display:block; 
+    }
+    #aboutus{
+        margin-left: 20px;
+        color: #155417ad;
+        margin-left: 20px;
+        text-align: center;
+        margin-top: 50px;
+        color:white;
+    }
+    #aboutus h1{
+        font-weight: 800px;
+        font-size: 10vh;
+    }
+    #aboutus p{
+        margin-top: 30px;
+        font-size: 2.5vh;
+    }
+    #service h1{
+        font-weight:800px;
+        font-size:7vh;
+        color: whitesmoke;
+        margin-top: 20px;
+        text-align: center;
+    }
